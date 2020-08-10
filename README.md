@@ -7,7 +7,7 @@
 <blockquote>
 <ul>
 <li>NodeJS</li>
-<li>discord.js - v12.0.2</li>
+<li>Discord.js - v12.0.2</li>
 </ul>
 </blockquote>
 <h1>Social</h1>
