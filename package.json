@@ -1,5 +1,5 @@
 {
-  "name": "ExampleBot",
+  "name": "examplebot",
   "version": "0.0.1",
   "description": "Basic discord bot",
   "main": "node index.js",
